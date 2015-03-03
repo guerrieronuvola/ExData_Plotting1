@@ -1,4 +1,4 @@
-# source("load_data.R")
+source("load_data.R")
 
 Sys.setlocale("LC_TIME", "English")
 
